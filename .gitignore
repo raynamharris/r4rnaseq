@@ -1,0 +1,5 @@
+docs
+mkdocs.yml
+*.dmp
+site
+*~
