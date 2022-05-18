@@ -2,7 +2,7 @@
 title = "r4rnaseq"
 
 # site name
-site_name = "R for RNA-Seq Examples"
+site_name = "R for RNA-Seq Anlaysis Examples"
 
 # where site will be served from
 site_url = "http://raynamharris.com/r4rnaseq/"
